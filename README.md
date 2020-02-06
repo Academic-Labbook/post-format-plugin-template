@@ -106,6 +106,9 @@ but these can be found manually by searching for the block in the [Gutenberg sou
 and finding the block type as defined in the `name` field of the block's `block.json` file.
 [Here is the file for `core/code`](https://github.com/WordPress/gutenberg/blob/master/packages/block-library/src/code/block.json).
 
+Once you are happy with the template, zip the top level directory `abc-post-template` and upload using WordPress's plugin page. You will
+now find that the template you define is shown when you load the relevant post type.
+
 ## Credits
 
 Sean Leavey  
